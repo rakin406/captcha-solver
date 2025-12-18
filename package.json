@@ -1,0 +1,23 @@
+{
+  "name": "captcha-solver",
+  "version": "1.0.0",
+  "description": "A module to solve captchas of A**B login portal",
+  "homepage": "https://github.com/rakin406/captcha-solver#readme",
+  "bugs": {
+    "url": "https://github.com/rakin406/captcha-solver/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakin406/captcha-solver.git"
+  },
+  "license": "MIT",
+  "author": "Rakin Rahman",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "tesseract.js": "^7.0.0"
+  }
+}
