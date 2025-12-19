@@ -19,6 +19,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "sharp": "^0.34.5",
     "tesseract.js": "^7.0.0"
   },
   "devDependencies": {
