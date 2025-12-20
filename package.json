@@ -15,7 +15,6 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "cli": "node ./src/cli.js",
     "test": "jest"
   },
   "dependencies": {
